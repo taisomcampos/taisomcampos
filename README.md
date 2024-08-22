@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia e há mais ou menos 1 ano venho aprendendo a pro
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taisomcampos&theme=shades-of-purple&show_icons=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=taisomcampos&theme=shades-of-purple&hide_border=falso)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisomcampos&layout=compact&theme=shades-of-purple)
 
 ### Habilidades
