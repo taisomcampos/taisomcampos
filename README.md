@@ -1,6 +1,4 @@
-# Taisom Campos
-
-Sou um entusiasta da tecnologia e há mais ou menos 1 ano venho aprendendo a programar.
+# Seja bem-vindo(a) ao meu perfil!
 
 ### GitHub Stats
 
