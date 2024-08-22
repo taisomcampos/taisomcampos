@@ -1,5 +1,7 @@
 # Seja bem-vindo(a) ao meu perfil!
 
+De uns tempos para cá, tenho me dedicado a duas grandes paixões: a Programação e a Música. Além de estar estudando para ser um Desenvolvedor Full-Stack, também tenho me dedicado a aprender Produção Vocal.
+
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taisomcampos&theme=shades-of-purple&show_icons=true)
