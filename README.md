@@ -3,10 +3,14 @@
 De uns tempos para cá, tenho me dedicado a duas grandes paixões: a Programação e a Música. Além de estar estudando para ser um Desenvolvedor Full-Stack, também tenho me dedicado a aprender Produção Vocal.
 
 ### GitHub Stats
+<p>
+  <a href="https://github.com/taisomcampos?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taisomcampos&theme=shades-of-purple&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"     width="48%" alt="@taisomcampos's github-readme-stats"/></a>
+  <a href="https://github.com/taisomcampos?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taisomcampos&theme=shades-of-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taisomcampos&theme=shades-of-purple&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisomcampos&layout=compact&theme=shades-of-purple)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisomcampos&theme=shades-of-purple&layout=compact"width="40%"/> 
+</p>
 
 ### Habilidades
 
@@ -15,7 +19,6 @@ De uns tempos para cá, tenho me dedicado a duas grandes paixões: a Programaç�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 
 ### Conecte-se comigo
 
