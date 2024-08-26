@@ -4,12 +4,12 @@ De uns tempos para cá, tenho me dedicado a duas grandes paixões: a Programaç�
 
 ### GitHub Stats
 <p>
-  <a href="https://github.com/taisomcampos?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taisomcampos&theme=shades-of-purple&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"     width="48%" alt="@taisomcampos's github-readme-stats"/></a>
-  <a href="https://github.com/taisomcampos?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taisomcampos&theme=shades-of-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+  <a href="https://github.com/taisomcampos?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taisomcampos&theme=transparent&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"     width="48%" alt="@taisomcampos's github-readme-stats"/></a>
+  <a href="https://github.com/taisomcampos?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taisomcampos&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisomcampos&theme=shades-of-purple&layout=compact"width="40%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisomcampos&theme=transparent&layout=compact"width="40%"/> 
 </p>
 
 ### Habilidades
