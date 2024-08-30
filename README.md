@@ -22,5 +22,9 @@ De uns tempos para cá, tenho me dedicado a duas grandes paixões: a Programaç�
 
 ### Conecte-se comigo
 
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)]([https://t.me/taysoncampos](https://x.com/campostaisom))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://t.me/taysoncampos](https://www.facebook.com/campostaisom/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://t.me/taysoncampos](https://www.instagram.com/campostaisom/))
+[![Threads](https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=threads&logoColor=white)]([https://t.me/taysoncampos](https://www.threads.net/@campostaisom?xmt=AQGzPfhQLWS14jm4D6A1YEFCRCvaOMb1zuYCwuat7aq2NDk))
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/taysoncampos)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@taisomcampos/)
