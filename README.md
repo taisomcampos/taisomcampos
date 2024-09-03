@@ -22,5 +22,5 @@ De uns tempos para cá, tenho me dedicado a duas grandes paixões: a Programaç�
 
 ### Conecte-se comigo
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/taysoncampos)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/campostaisom)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@taisomcampos/)
