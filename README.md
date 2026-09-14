@@ -38,4 +38,8 @@ Agora estou organizando meus primeiros projetos públicos e montando meu portfó
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisomcampos)
+<p align="left">
+  <a href="https://www.linkedin.com/in/taisomcampos" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+</p>
